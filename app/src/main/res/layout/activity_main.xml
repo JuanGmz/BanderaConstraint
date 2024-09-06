@@ -28,7 +28,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:srcCompat="@drawable/aguila"
         android:background="#F8F4F4"
-        android:contentDescription="imagen"/>
+        android:contentDescription="imagenAguila"/>
 
     <View
         android:id="@+id/view5"
