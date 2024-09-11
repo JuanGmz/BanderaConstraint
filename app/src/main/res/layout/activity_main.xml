@@ -89,6 +89,7 @@
         app:layout_constraintEnd_toStartOf="@id/view9"
         app:layout_constraintTop_toTopOf="@id/view7" />
 
+    <!-- View 9 -->
     <View
         android:id="@+id/view9"
         android:layout_width="20dp"
